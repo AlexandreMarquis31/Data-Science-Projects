@@ -1,0 +1,2 @@
+# Python 3.5–3.8 requiered
+tensorflow
